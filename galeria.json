@@ -1,1 +1,38 @@
-[{"foto":"fotos/recorrido1.jpg","titulo":"Recorrido en El Chical","fecha":"18 nov"}]
+[
+ {
+  "foto": "fotos/recorrido-1.jpg",
+  "titulo": "Conversando con los vecinos"
+ },
+ {
+  "foto": "fotos/recorrido-2.jpg",
+  "titulo": "Caminata con la militancia de Futuro 20"
+ },
+ {
+  "foto": "fotos/recorrido-3.jpg",
+  "titulo": "Saludando a la ciudadanía"
+ },
+ {
+  "foto": "fotos/recorrido-4.jpg",
+  "titulo": "Recorrido con Orlando Martínez"
+ },
+ {
+  "foto": "fotos/recorrido-5.jpg",
+  "titulo": "Encuentro con moradores"
+ },
+ {
+  "foto": "fotos/recorrido-6.jpg",
+  "titulo": "Compartiendo rosas y propuestas"
+ },
+ {
+  "foto": "fotos/recorrido-7.jpg",
+  "titulo": "Visita casa por casa"
+ },
+ {
+  "foto": "fotos/recorrido-8.jpg",
+  "titulo": "Con los vecinos del barrio"
+ },
+ {
+  "foto": "fotos/recorrido-9.jpg",
+  "titulo": "Recorrido por el barrio"
+ }
+]
